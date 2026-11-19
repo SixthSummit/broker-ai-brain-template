@@ -1,0 +1,4 @@
+# Two bots adding log lines at the same moment: keep every line from both sides.
+data/session-logs/** merge=union
+
+* text=auto eol=lf

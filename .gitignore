@@ -1,0 +1,8 @@
+# The brain holds notes only. Everything else is ignored, so a client document or an export that
+# lands in this folder by accident can never be saved to GitHub.
+*
+!*/
+!*.md
+!.gitignore
+!.gitattributes
+!.gitkeep
